@@ -1,0 +1,16 @@
+Desafio: Jogo do Número Secreto
+Você deve criar um programa que gere um número aleatório entre 1 e 100 e peça para o usuário adivinhar qual é esse número. O programa deve fornecer dicas informando se o número digitado é maior ou menor que o número secreto, até que o usuário acerte.
+
+Regras:
+O programa deve gerar um número aleatório entre 1 e 100.
+O usuário pode tentar adivinhar quantas vezes quiser.
+Se o palpite for maior que o número secreto, o programa deve exibir: "O número secreto é menor!".
+Tente adivinhar o número entre 1 e 100:
+> 50
+O número secreto é maior!
+> 75
+O número secreto é menor!
+> 63
+O número secreto é menor!
+> 57
+Parabéns! Você acertou em 4 tentativas.
